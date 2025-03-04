@@ -11,7 +11,7 @@ const projects = [
     title: "Quiz Quest",
     description:
       "A full-stack web app, using vanilla JavaScript, HTML, CSS, an Express server, and a database to create a trivia quiz game.",
-    liveLink: "https://quiz-quest-game-client.onrender.com/",
+    liveLink: "https://quizquest-qpzi.onrender.com/",
     githubLink: "https://github.com/Angelica2310/quiz-quest-game",
     image: "quiz-quest.webp",
   },
